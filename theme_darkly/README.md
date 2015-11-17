@@ -1,2 +1,0 @@
-Bootswatch Theme Darkly
-
