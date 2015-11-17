@@ -1,13 +1,20 @@
-# themes
+# THEMES
 
 Odoo verions 8.0 Themes
 
-# Missing Bootswatch themes
+# Missing Bootswatch Themes
 
-Bootswatch Theme Darkly:    https://bootswatch.com/darkly/
-Bootswatch Theme Paper:     https://bootswatch.com/paper/
-Bootswatch Theme Sandstone: https://bootswatch.com/sandstone/
-Bootswatch Theme Superhero: https://bootswatch.com/superhero/
+Bootswatch Theme Darkly:
+https://bootswatch.com/darkly/
+
+Bootswatch Theme Paper:
+https://bootswatch.com/paper/
+
+Bootswatch Theme Sandstone:
+https://bootswatch.com/sandstone/
+
+Bootswatch Theme Superhero: 
+https://bootswatch.com/superhero/
 
 
 # Support
