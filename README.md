@@ -9,6 +9,9 @@ From Back Office to Front Office and all your Apps in a Single Database.<br>
 
 We don’t just build websites, we build your business.<br>
 
+w: <a href=https://www.office-everywhere.com>Office-Everywhere.com</a><br>
+e: <a href=mailto:support@office-everywhere.com>Email Support</a><br>
+
 # FREE THEMES
 
 Odoo version 8.0 Themes
@@ -23,12 +26,6 @@ Repositories: <br>
 <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/bootswatch/theme_paper">Theme Paper</a><br>
 <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/bootswatch/theme_sandstone">Theme Sandstone</a><br>
 <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/bootswatch/theme_darkly">Theme Superhero</a><br>
-
-# Support - Themes
-
-Office Everywhere<br>
-w: <a href=https://www.office-everywhere.com>Office-Everywhere.com</a><br>
-e: <a href=mailto:support@office-everywhere.com>Email Support</a><br>
 
 # Copyright and License
 
