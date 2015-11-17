@@ -1,4 +1,4 @@
-<IMG SRC="https://www.office-everywhere.com/website/image/ir.attachment/351_ffc5997/datas" ALT="Github">
+<IMG SRC="https://www.office-everywhere.com/website/image/ir.attachment/351_ffc5997/datas" ALT="Office Everywhere - Themes">
 
 # FREE THEMES
 
