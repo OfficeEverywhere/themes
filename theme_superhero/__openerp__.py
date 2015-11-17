@@ -2,7 +2,7 @@
     'name': "Theme Bootswatch Superhero",
 
     'summary': """
-    Theme Bootswatch Superhero""",
+    Bootswatch Superhero""",
 
     'description': """
     Bootswatch Paper Theme https://bootswatch.com/superhero/""",

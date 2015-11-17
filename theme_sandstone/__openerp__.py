@@ -2,7 +2,7 @@
     'name': "Theme Bootswatch Sandstone",
 
     'summary': """
-    Theme Bootswatch Sandstone""",
+    Bootswatch Sandstone""",
 
     'description': """
     Bootswatch Sandstone Theme https://bootswatch.com/sandstone/""",

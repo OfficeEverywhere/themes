@@ -2,7 +2,7 @@
     'name': "Theme Bootswatch Darkly",
 
     'summary': """
-    Theme Bootswatch Darkly""",
+    Bootswatch Darkly""",
 
     'description': """
     Bootswatch Paper Theme https://bootswatch.com/darkly/""",

@@ -2,7 +2,7 @@
     'name': "Theme Paper",
 
     'summary': """
-    Theme Paper""",
+    Bootswatch Paper""",
 
     'description': """
     Bootswatch Paper Theme https://bootswatch.com/paper/""",
@@ -17,8 +17,6 @@
         'website'
     ],
     'data': [
-#        'views/layout.xml',
-#        'views/assets.xml'
         'views/bootswatch-paper.xml'
     ],
 
