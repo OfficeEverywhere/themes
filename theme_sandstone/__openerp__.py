@@ -1,5 +1,5 @@
 {
-    'name': "Theme Bootswatch Sandstone",
+    'name': "Bootswatch Sandstone",
 
     'summary': """
     Bootswatch Sandstone""",

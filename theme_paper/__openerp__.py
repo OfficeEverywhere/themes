@@ -1,5 +1,5 @@
 {
-    'name': "Theme Paper",
+    'name': "Bootswatch Paper",
 
     'summary': """
     Bootswatch Paper""",

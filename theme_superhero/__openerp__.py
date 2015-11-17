@@ -1,5 +1,5 @@
 {
-    'name': "Theme Bootswatch Superhero",
+    'name': "Bootswatch Superhero",
 
     'summary': """
     Bootswatch Superhero""",
