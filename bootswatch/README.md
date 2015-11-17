@@ -27,8 +27,16 @@ Repositorie: <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/bootsw
 Source: https://bootswatch.com/superhero/
 
 
-# Support
+# Support - Themes
 
 Office Everywhere<br>
-w: https://www.office-everywhere.com<br>
-e: <a href=support@office-everywhere.com>Email Support</a><br>
+w: <a href=https://www.office-everywhere.com>Office-Everywhere.com</a><br>
+e: <a href=mailto:support@office-everywhere.com>Email Support</a><br>
+
+# Copyright and License
+
+Bootswatch version: 3.3.5 <br>
+Copyright 2012-2015 Thomas Park <br>
+Licensed under MIT <br>
+Based on Bootstrap <br>
+Homepage: <a href=http://bootstrap.com>bootstrap.com</a><br>
