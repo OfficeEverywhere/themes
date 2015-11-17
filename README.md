@@ -18,4 +18,4 @@ Repositories: <br>
 
 Office Everywhere<br>
 w: https://www.office-everywhere.com<br>
-e: <a href=support@office-everywhere.com>Email Support</a><br>
+e: <a href=mailto:support@office-everywhere.com>Email Support</a><br>
