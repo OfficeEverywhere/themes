@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<openerp>
+  <data>
+
+        <template id="superhero_theme_asset" name="Website asset for Bootswatch Superhero theme" inherit_id="website.theme">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/theme_superhero/static/src/css/bootswatch-superhero.css"/>
+            </xpath>
+        </template>
+
+  </data>
+</openerp>

@@ -1,11 +1,11 @@
 {
-    'name': "Theme Bootswatch Darkly",
+    'name': "Theme Paper",
 
     'summary': """
     Custom theme""",
 
     'description': """
-    Bootswatch Paper Theme https://bootswatch.com/darkly/""",
+    Bootswatch Paper Theme https://bootswatch.com/paper/""",
 
     'author': "Office Everywhere",
     'website': "https://www.office-everywhere.com",
@@ -18,7 +18,9 @@
         'website'
     ],
     'data': [
-        'views/bootswatch-darkly.xml'
+#        'views/layout.xml',
+#        'views/assets.xml'
+        'views/bootswatch-paper.xml'
     ],
 
     'demo': [

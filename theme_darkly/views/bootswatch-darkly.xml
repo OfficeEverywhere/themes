@@ -4,7 +4,7 @@
 
         <template id="darkly_theme_asset" name="Website asset for Bootswatch Darkly theme" inherit_id="website.theme">
             <xpath expr="." position="inside">
-                <link rel="stylesheet" href="/theme_paper/static/src/css/bootswatch-darkly.css"/>
+                <link rel="stylesheet" href="/theme_darkly/static/src/css/bootswatch-darkly.css"/>
             </xpath>
         </template>
 

@@ -1,11 +1,11 @@
 {
-    'name': "Theme Bootswatch Darkly",
+    'name': "Theme Bootswatch Superhero",
 
     'summary': """
     Custom theme""",
 
     'description': """
-    Bootswatch Paper Theme https://bootswatch.com/darkly/""",
+    Bootswatch Paper Theme https://bootswatch.com/superhero/""",
 
     'author': "Office Everywhere",
     'website': "https://www.office-everywhere.com",
@@ -18,7 +18,7 @@
         'website'
     ],
     'data': [
-        'views/bootswatch-darkly.xml'
+        'views/bootswatch-superhero.xml'
     ],
 
     'demo': [

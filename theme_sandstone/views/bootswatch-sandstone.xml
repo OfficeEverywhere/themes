@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<openerp>
+  <data>
+
+        <template id="sandstone_theme_asset" name="Website asset for Bootswatch Sandstone theme" inherit_id="website.theme">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/theme_sandstone/static/src/css/bootswatch-sandstone.css"/>
+            </xpath>
+        </template>
+
+  </data>
+</openerp>
