@@ -2,7 +2,7 @@
 
 # FREE THEMES
 
-Odoo verion 8.0 Themes
+Odoo version 8.0 Themes
 
 # Bootswatch Themes
 
