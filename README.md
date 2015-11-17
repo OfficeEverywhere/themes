@@ -29,5 +29,3 @@ Copyright 2012-2015 Thomas Park <br>
 Licensed under MIT <br>
 Based on Bootstrap <br>
 Homepage: <a href=http://bootstrap.com>bootstrap.com</a><br>
-
-<IMG SRC="https://www.office-everywhere.com/website/image/ir.attachment/1084_f488c02/datas" ALT="Github">
