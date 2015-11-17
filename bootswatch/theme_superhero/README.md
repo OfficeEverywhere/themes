@@ -28,5 +28,5 @@ Source: https://bootswatch.com/superhero/
 # Support
 
 Office Everywhere<br>
-w: https://www.office-everywhere.com<br>
-e: <a href=support@office-everywhere.com>Email Support</a><br>
+w: <a href=https://www.office-everywhere.com>Office-Everywhere.com</a><br>
+e: <a href=mailto:support@office-everywhere.com>Email Support</a><br>
