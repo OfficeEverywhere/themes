@@ -16,10 +16,11 @@
     'images':[
         'images/darkly-thumbnail.png'
     ],
-    
+
     'depends': [
         'website'
     ],
+    
     'data': [
         'views/bootswatch-darkly.xml'
     ],

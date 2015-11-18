@@ -20,6 +20,7 @@
     'depends': [
         'website'
     ],
+    
     'data': [
         'views/bootswatch-sandstone.xml'
     ],
