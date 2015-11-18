@@ -14,8 +14,9 @@
     'version': '1.0',
 
     'images':[
-            'images/darkly-thumbnail.png',
-
+        'images/darkly-thumbnail.png'
+    ],
+    
     'depends': [
         'website'
     ],
