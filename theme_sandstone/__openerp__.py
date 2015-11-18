@@ -11,7 +11,7 @@
     'website': "https://www.office-everywhere.com",
 
     'category': 'Theme',
-    'version': '1.0',
+    'version': '1.1',
 
     'images':[
         'images/sandstone-thumbnail.png'
