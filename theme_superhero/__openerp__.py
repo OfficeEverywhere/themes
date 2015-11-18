@@ -13,6 +13,10 @@
     'category': 'Theme',
     'version': '1.0',
 
+    'images':[
+        'images/superhero-thumbnail.png'
+    ],
+
     'depends': [
         'website'
     ],

@@ -13,6 +13,10 @@
     'category': 'Theme',
     'version': '1.0',
 
+    'images':[
+        'images/paper-thumbnail.png'
+    ],
+
     'depends': [
         'website'
     ],
