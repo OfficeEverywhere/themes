@@ -17,6 +17,14 @@
         'images/superhero-thumbnail.png'
     ],
 
+    'documentation':[
+        ''
+    ],
+
+    'screenshots':[
+        'images/superhero-thumbnail.png'
+    ],
+
     'depends': [
         'website'
     ],
