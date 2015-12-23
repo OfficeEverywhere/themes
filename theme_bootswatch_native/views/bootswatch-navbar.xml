@@ -1,0 +1,41 @@
+<openerp>
+    <data>
+
+      <!-- Show Bootswatch in customize menu -->
+      <template id="show_bootswatch" inherit_id="website.layout" customize_show="True" active="True" name="Show Bootswatch Native" priority="99">
+          <xpath expr="//ul[@class='dropdown-menu' and @role='menu']" position="replace">
+            <ul class="dropdown-menu" role="menu">
+                <li><a href="#advanced-view-editor" data-action='ace'>HTML Editor</a></li>
+                <li><a href="/page/website.themes">Change Theme</a></li>
+                <li><a href="/page/website.bootswatch">Bootswatch Native</a></li>
+                <li><a href="/web#return_label=Website&amp;action=website.action_module_website">Install Apps</a></li>
+                <li class="divider"></li>
+            </ul>
+            <!-- Refresh menu -->
+            <script>
+                {
+                  window.location.reload();
+                 });
+            </script>
+            <!-- Refresh menu -->
+          </xpath>
+      </template>
+      <!-- END show Bootswatch in customize menu -->
+
+      <!-- Replace customize menu and ADD Bootswatch Native
+      <template id="bootswatch_navbar" inherit_id="website.user_navbar">
+          <xpath expr="//ul[@class='dropdown-menu' and @role='menu']" position="replace">
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="#advanced-view-editor" data-action='ace'>HTML Editor</a></li>
+              <li><a href="/page/website.themes">Change Theme</a></li>
+              <li><a href="/page/website.bootswatch">Bootswatch Native</a></li>
+              <li><a href="/web#return_label=Website&amp;action=website.action_module_website">Install Apps</a></li>
+              <li class="divider"></li>
+            </ul>
+          </xpath>
+      </template>
+      END Replace customize menu -->
+
+
+    </data>
+</openerp>
