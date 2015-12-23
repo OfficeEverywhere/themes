@@ -6,9 +6,9 @@ Darkly, Paper, Sandstone and Superhero<br>
 Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_bootswatch_native">Native Bootswatch Themes</a><br>
 Source: https://bootswatch.com/
 
-# Copyright and License
+<IMG SRC="https://www.office-everywhere.com/website/image/ir.attachment/1084_f488c02/datas" ALT="Free Bootswatch">
 
-<IMG SRC="https://www.office-everywhere.com/website/image/ir.attachment/1084_f488c02/datas" ALT="free bootswatch">
+# Copyright and License
 
 Bootswatch version: 3.3.5 <br>
 Copyright 2012-2015 Thomas Park <br>
