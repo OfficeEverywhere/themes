@@ -13,6 +13,11 @@
     'category': 'Theme',
     'version': '1.0',
 
+    'images':[
+        'images/bootswatch-native.png'
+    ],
+
+
     'depends': [
         'base',
         'website'
