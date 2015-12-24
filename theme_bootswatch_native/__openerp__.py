@@ -17,7 +17,6 @@
         'images/bootswatch-native.png'
     ],
 
-
     'depends': [
         'base',
         'website'
