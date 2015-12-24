@@ -1,7 +1,7 @@
 # Native Bootswatch Themes
 
 The latest 17 free themes for Bootswatch:<br>
-Amelia, Curulean, Cosmo, Cyborg, Darkly, Flatly, Journal, Lumen, Paper, Readable, Simplex, Slate, Sandstone, Spacelab, Superhero, United and Yet<br>
+Amelia, Curulean, Cosmo, Cyborg, Darkly, Flatly, Journal, Lumen, Paper, Readable, Simplex, Slate, Sandstone, Spacelab, Superhero, United and Yeti<br>
 
 Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_bootswatch_native">Native Bootswatch Themes</a><br>
 Source: https://bootswatch.com/
