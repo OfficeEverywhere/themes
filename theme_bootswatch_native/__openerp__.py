@@ -11,7 +11,7 @@
     'website': "https://www.office-everywhere.com",
 
     'category': 'Theme',
-    'version': '1.1',
+    'version': '1.2',
 
     'images':[
         'images/bootswatch-native.png'
