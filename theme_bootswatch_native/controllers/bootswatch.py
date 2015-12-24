@@ -27,7 +27,7 @@ LOC_PER_SITEMAP = 45000
 SITEMAP_CACHE_TIME = datetime.timedelta(hours=12)
 
 # class Website(openerp.addons.web.controllers.main.Home):
-class Website(openerp.addons.web.controllers.main.Home)
+class Website(openerp.addons.web.controllers.main.Home):
 
     @http.route('/theme_bootswatch_native/bootswatch_change', type='http', auth="user", website=True)
     def bootswatch_change(self, theme_id=False, **kwargs):
