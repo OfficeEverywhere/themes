@@ -27,7 +27,7 @@ LOC_PER_SITEMAP = 45000
 SITEMAP_CACHE_TIME = datetime.timedelta(hours=12)
 
 # class Website(openerp.addons.web.controllers.main.Home):
-class Website(openerp.addons.web.controllers.main.Home):
+class Website2(openerp.addons.web.controllers.main.Home):
 
     #------------------------------------------------------
     # bootswatch change
