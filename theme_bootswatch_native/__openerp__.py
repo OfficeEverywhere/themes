@@ -18,6 +18,7 @@
     ],
 
     'depends': [
+        'base',
         'website'
     ],
 
