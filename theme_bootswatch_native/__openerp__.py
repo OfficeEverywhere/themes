@@ -19,6 +19,8 @@
 
     'depends': [
         'base',
+        'website_less',
+        'theme_common',
         'website'
     ],
 
