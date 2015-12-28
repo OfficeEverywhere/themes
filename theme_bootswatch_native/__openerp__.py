@@ -11,22 +11,19 @@
     'website': "https://www.office-everywhere.com",
 
     'category': 'Theme',
-    'version': '0.2b',
+    'version': '0.2c',
 
     'images':[
         'images/bootswatch-native.png'
     ],
 
     'depends': [
-        'base',
-        'website_less',
-        'theme_common',
         'website'
     ],
 
     'data': [
         'views/bootswatch-navbar.xml',
-        'views/bootswatch-native.xml'
+        'views/bootswatch.xml'
     ],
 
     'demo': [

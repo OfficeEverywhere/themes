@@ -26,32 +26,32 @@ MAX_IMAGE_WIDTH, MAX_IMAGE_HEIGHT = IMAGE_LIMITS = (1024, 768)
 LOC_PER_SITEMAP = 45000
 SITEMAP_CACHE_TIME = datetime.timedelta(hours=12)
 
-# class Website(openerp.addons.web.controllers.main.Home):
-class Website2(openerp.addons.web.controllers.main.Home):
+class Website(openerp.addons.web.controllers.main.Home):
 
     #------------------------------------------------------
     # bootswatch change
     #------------------------------------------------------
+
     @http.route('/theme_bootswatch_native/bootswatch_change', type='http', auth="user", website=True)
     def bootswatch_change(self, theme_id=False, **kwargs):
-                imd = request.registry['ir.model.data']
-                Views = request.registry['ir.ui.view']
+        imd = request.registry['ir.model.data']
+        Views = request.registry['ir.ui.view']
 
-    _, theme_template_id = imd.get_object_reference(
-        request.cr, request.uid, 'bootswatch', 'theme')
-    views = Views.search(request.cr, request.uid, [
-        ('inherit_id', '=', theme_template_id),
-    ], context=request.context)
-    Views.write(request.cr, request.uid, views, {
-        'active': False,
-    }, context=dict(request.context or {}, active_test=True))
-
-    if theme_id:
-        module, xml_id = theme_id.split('.')
-        _, view_id = imd.get_object_reference(
-            request.cr, request.uid, module, xml_id)
-        Views.write(request.cr, request.uid, [view_id], {
-            'active': True
+        _, theme_template_id = imd.get_object_reference(
+            request.cr, request.uid, 'website', 'theme')
+        views = Views.search(request.cr, request.uid, [
+            ('inherit_id', '=', theme_template_id),
+        ], context=request.context)
+        Views.write(request.cr, request.uid, views, {
+            'active': False,
         }, context=dict(request.context or {}, active_test=True))
 
-    return request.render('website.bootswatch', {'bootswatch_changed': True})
+        if theme_id:
+            module, xml_id = theme_id.split('.')
+            _, view_id = imd.get_object_reference(
+                request.cr, request.uid, module, xml_id)
+            Views.write(request.cr, request.uid, [view_id], {
+                'active': True
+            }, context=dict(request.context or {}, active_test=True))
+
+        return request.render('website.bootswatch', {'bootswatch_changed': True})
