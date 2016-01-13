@@ -14,18 +14,19 @@ e: <a href=mailto:support@office-everywhere.com>Email Support</a><br>
 
 # FREE THEMES
 
-Odoo version 8.0 Themes
+Odoo version 9.0 Themes
 
 # Bootswatch Themes
 
 Missing Bootswatch Themes in Odoo:<br>
-Darkly, Paper, Sandstone and Superhero<br>
+Darkly, Lumen, Paper, Sandstone and Superhero<br>
 
 Repositories: <br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_darkly">Theme Darkly</a><br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_paper">Theme Paper</a><br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_sandstone">Theme Sandstone</a><br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_darkly">Theme Superhero</a><br>
+<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_darkly">Theme Darkly</a><br>
+<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_lumen">Theme Lumen</a><br>
+<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_paper">Theme Paper</a><br>
+<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_sandstone">Theme Sandstone</a><br>
+<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_darkly">Theme Superhero</a><br>
 
 # Copyright and License
 
