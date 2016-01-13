@@ -14,7 +14,7 @@ e: <a href=mailto:support@office-everywhere.com>Email Support</a><br>
 
 # FREE THEMES
 
-Odoo version 8.0 Themes
+Odoo version 9.0 Themes
 
 # Bootswatch Themes
 
@@ -22,19 +22,23 @@ Missing Bootswatch Themes in Odoo:<br>
 Darkly, Paper, Sandstone and Superhero<br>
 
 Theme Darkly:<br>
-Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_darkly">Theme Darkly</a><br>
+Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_darkly">Theme Darkly</a><br>
 Source: https://bootswatch.com/darkly/
 
+Theme Lumen:<br>
+Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_lumen">Theme Paper</a><br>
+Source: https://bootswatch.com/lumen/
+
 Theme Paper:<br>
-Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_paper">Theme Paper</a><br>
+Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_paper">Theme Paper</a><br>
 Source: https://bootswatch.com/paper/
 
 Theme Sandstone:<br>
-Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_sandstone">Theme Sandstone</a><br>
+Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_sandstone">Theme Sandstone</a><br>
 Source: https://bootswatch.com/sandstone/
 
-Bootswatch Theme Superhero:<br>
-Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/8.0/theme_darkly">Theme Superhero</a><br>
+Theme Superhero:<br>
+Repository: <a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_darkly">Theme Superhero</a><br>
 Source: https://bootswatch.com/superhero/
 
 # Copyright and License
