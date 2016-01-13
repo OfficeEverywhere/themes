@@ -9,7 +9,7 @@ From Back Office to Front Office and all your Apps in a Single Database.<br>
 
 We don’t just build websites, we build your business.<br>
 
-w: <a href=https://www.office-everywhere.com>Office-Everywhere.com</a><br>
+w: <a href=https://www.office-everywhere.com target="_blank">Office-Everywhere.com</a><br>
 e: <a href=mailto:support@office-everywhere.com>Email Support</a><br>
 
 # FREE THEMES
