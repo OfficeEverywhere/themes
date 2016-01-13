@@ -22,11 +22,11 @@ Missing Bootswatch Themes in Odoo:<br>
 Darkly, Lumen, Paper, Sandstone and Superhero<br>
 
 Repositories: <br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_darkly target="_blank">Theme Darkly</a><br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_lumen target="_blank">Theme Lumen</a><br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_paper target="_blank">Theme Paper</a><br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_sandstone target="_blank">Theme Sandstone</a><br>
-<a href="https://github.com/OfficeEverywhere/themes/tree/9.0/theme_darkly target="_blank">Theme Superhero</a><br>
+<a href=https://github.com/OfficeEverywhere/themes/tree/9.0/theme_darkly target="_blank">Theme Darkly</a><br>
+<a href=https://github.com/OfficeEverywhere/themes/tree/9.0/theme_lumen target="_blank">Theme Lumen</a><br>
+<a href=https://github.com/OfficeEverywhere/themes/tree/9.0/theme_paper target="_blank">Theme Paper</a><br>
+<a href=https://github.com/OfficeEverywhere/themes/tree/9.0/theme_sandstone target="_blank">Theme Sandstone</a><br>
+<a href=https://github.com/OfficeEverywhere/themes/tree/9.0/theme_darkly target="_blank">Theme Superhero</a><br>
 
 # Copyright and License
 
