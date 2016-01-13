@@ -6,8 +6,8 @@
     'description': 'Bootswatch Darkly',
     'category': 'Theme',
     'version': '0.1',
+    'images': ['images/darkly-thumbnail.png'],
     'depends': ['website'],
     'data': ['views/bootswatch-darkly.xml'],
-    'images': ['theme_bootswatch_darkly/static/description/bootswatch.png'],
     'application': False,
 }
