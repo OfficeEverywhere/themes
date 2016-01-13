@@ -42,7 +42,7 @@
     <!-- Theme Darkly -->
     <template id="theme_darkly.theme_darkly" name="Darkly" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
-            <link rel="stylesheet" type="text/less" href='/theme_darkkly/static/src/less/darkly-bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='/theme_darkly/static/src/less/darkly-bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='/theme_darkly/static/src/less/darkly-variables.less' t-ignore="true"/>
         </xpath>
             <!-- Refresh menu -->

@@ -1,13 +1,13 @@
 {
     'author': "Office Everywhere",
     'website': "https://www.office-everywhere.com",
-    'name': 'Bootswatch Darkly',
-    'summary': 'Bootswatch Darkly',
-    'description': 'Bootswatch Darkly',
+    'name': 'Bootswatch Lumen',
+    'summary': 'Bootswatch Lumen',
+    'description': 'Bootswatch Lumen',
     'category': 'Theme',
     'version': '0.1',
-    'images': ['images/darkly-thumbnail.png'],
+    'images': ['images/lumen-thumbnail.png'],
     'depends': ['website'],
-    'data': ['views/bootswatch-darkly.xml'],
+    'data': ['views/bootswatch-lumen.xml'],
     'application': False,
 }

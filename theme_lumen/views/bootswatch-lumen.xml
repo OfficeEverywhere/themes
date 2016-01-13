@@ -2,7 +2,7 @@
 <openerp>
 <data>
 
-<template id="theme_customize" inherit_id="website.theme_customize" name="theme_customize Darkly">
+<template id="theme_customize" inherit_id="website.theme_customize" name="theme_customize Lumen">
     <xpath expr="div" position="replace">
 
       <div id="theme_customize_modal" class="modal fade bs-example-modal-sm">
@@ -11,7 +11,7 @@
             <div class="loading_backdrop"></div>
             <div class="modal-header">
               <button type="button" class="close">×</button>
-              <h4 class="modal-title">Theme Darkly</h4>
+              <h4 class="modal-title">Theme Lumen</h4>
             </div>
             <div class="modal-body">
               <table>
@@ -24,8 +24,8 @@
                   </td>
                   <td>
                     <label>
-                      <img style="width: 120px; height: 70px;" src="/theme_darkly/static/src/img/darkly-thumbnail.png" alt="Darkly"/>
-                      <input name="theme" type="radio" data-xmlid="theme_darkly.theme_darkly"/>
+                      <img style="width: 120px; height: 70px;" src="/theme_lumen/static/src/img/lumen-thumbnail.png" alt="Lumen"/>
+                      <input name="theme" type="radio" data-xmlid="theme_lumen.theme_lumen"/>
                     </label>
                   </td>
                 </tr>
@@ -39,11 +39,11 @@
 </template>
 
 
-    <!-- Theme Darkly -->
-    <template id="theme_darkly.theme_darkly" name="Darkly" inherit_id="website.assets_frontend" active="False" customize_show="False">
+    <!-- Theme Lumen -->
+    <template id="theme_lumen.theme_lumen" name="Lumen" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
-            <link rel="stylesheet" type="text/less" href='/theme_darkkly/static/src/less/darkly-bootswatch.less' t-ignore="true"/>
-            <link rel="stylesheet" type="text/less" href='/theme_darkly/static/src/less/darkly-variables.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='/theme_lumen/static/src/less/lumen-bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='/theme_lumen/static/src/less/lumen-variables.less' t-ignore="true"/>
         </xpath>
             <!-- Refresh menu -->
             <script>
@@ -53,13 +53,13 @@
             </script>
             <!-- Refresh menu -->
     </template>
-    <!-- END Theme Darkly -->
+    <!-- END Theme Lumen -->
 
     <!-- Theme Default -->
-    <template id="theme_darkly.theme_default" name="Default" inherit_id="website.assets_frontend" active="False" customize_show="False">
+    <template id="theme_lumen.theme_default" name="Default" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
-            <link rel="stylesheet" href='/theme_darkly/static/src/css/bootswatch-default.css' t-ignore="true"/>
-            <link rel="stylesheet" type="text/less" href='/theme_darkly/static/src/less/default-variables.less' t-ignore="true"/>
+            <link rel="stylesheet" href='/theme_lumen/static/src/css/bootswatch-default.css' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='/theme_lumen/static/src/less/default-variables.less' t-ignore="true"/>
         </xpath>
     </template>
     <!-- END Theme Default -->
