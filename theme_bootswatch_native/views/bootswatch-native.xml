@@ -272,7 +272,7 @@
 
           <link rel='stylesheet' href='/theme_bootswatch_native/static/src/css/bootswatch-paper.css' t-ignore="true"/>
 
-          <!-- Error @popover-arrow-color
+          <!-- Error @popover-arrow-outer-color
           <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/paper/bootswatch.less' t-ignore="true"/>
           <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/paper/variables.less' t-ignore="true"/>
           -->
@@ -322,8 +322,14 @@
 
     <template id="theme_bootswatch_native.theme_yeti" name="Yeti" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+
+          <link rel='stylesheet' href='/theme_bootswatch_native/static/src/css/bootswatch-yeti.css' t-ignore="true"/>
+
+          <!-- Error @popover-arrow-outer-color
           <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/yeti/bootswatch.less' t-ignore="true"/>
           <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/yeti/variables.less' t-ignore="true"/>
+          -->
+
           <!-- external link not working in Odoo
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/yeti/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/yeti/variables.less' t-ignore="true"/>
