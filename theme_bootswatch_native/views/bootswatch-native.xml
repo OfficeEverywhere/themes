@@ -18,13 +18,13 @@
                 <tr>
                   <td>
                     <label class="checked">
-                      <img style="width: 120px; height: 70px;" src="/theme_bootswatch_native/static/src/img/bootswatch_default_thumbnail.png" alt="Default Theme"/>
+                      <img style="width: 120px; height: 70px;" src="/theme_bootswatch_native/static/src/img/default-thumbnail.png" alt="Default Theme"/>
                       <input name="theme" type="radio" data-xmlid="" checked="checked"/>
                     </label>
                   </td>
                   <td>
                     <label>
-                      <img style="width: 120px; height: 70px;" src="/theme_bootswatch_native/static/src/less/amelia/thumbnail.png" alt="Amelia"/>
+                      <img style="width: 120px; height: 70px;" src="/theme_bootswatch_native/static/src/img/amelia-thumbnail.png" alt="Amelia"/>
                       <input name="theme" type="radio" data-xmlid="theme_bootswatch_native.theme_amelia"/>
                     </label>
                   </td>
@@ -87,7 +87,7 @@
                   </td>
                   <td>
                     <label>
-                      <img style="width: 120px; height: 70px;" src="https://bootswatch.com/Sandstone/thumbnail.png" alt="Sandstone"/>
+                      <img style="width: 120px; height: 70px;" src="https://bootswatch.com/sandstone/thumbnail.png" alt="Sandstone"/>
                       <input name="theme" type="radio" data-xmlid="theme_bootswatch_native.theme_sandstone"/>
                     </label>
                   </td>
@@ -135,7 +135,7 @@
                   </td>
                   <td>
                     <label>
-                      <img style="width: 120px; height: 70px;" src="/theme_bootswatch_native/static/src/img/bootswatch_default_thumbnail.png" alt="More Themes"/>
+                      <img style="width: 120px; height: 70px;" src="/theme_bootswatch_native/static/src/img/more-thumbnail.png" alt="More Themes"/>
                       <input name="theme" type="radio" data-xmlid="theme_bootswatch_native.theme_more"/>
                     </label>
                   </td>
@@ -251,28 +251,28 @@
         </xpath>
     </template>
 
-    <template id="theme_bootswatch_native.theme_darkly" name="Lumen" inherit_id="website.assets_frontend" active="False" customize_show="False">
+    <template id="theme_bootswatch_native.theme_lumen" name="Lumen" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/lumen/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/lumen/variables.less' t-ignore="true"/>
         </xpath>
     </template>
 
-    <template id="theme_bootswatch_native.theme_darkly" name="Paper" inherit_id="website.assets_frontend" active="False" customize_show="False">
+    <template id="theme_bootswatch_native.theme_paper" name="Paper" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/paper/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/paper/variables.less' t-ignore="true"/>
         </xpath>
     </template>
 
-    <template id="theme_bootswatch_native.theme_darkly" name="Sandstone" inherit_id="website.assets_frontend" active="False" customize_show="False">
+    <template id="theme_bootswatch_native.theme_sandstone" name="Sandstone" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/sandstone/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/sandstone/variables.less' t-ignore="true"/>
         </xpath>
     </template>
 
-    <template id="theme_bootswatch_native.theme_darkly" name="Superhero" inherit_id="website.assets_frontend" active="False" customize_show="False">
+    <template id="theme_bootswatch_native.theme_superhero" name="Superhero" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/superhero/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/superhero/variables.less' t-ignore="true"/>
