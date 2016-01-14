@@ -140,7 +140,7 @@
                     </label>
                   </td>
                 </tr>
-                
+
               </table>
             </div>
           </div>
@@ -237,6 +237,52 @@
         <xpath expr="." position="inside">
             <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/united/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/united/variables.less' t-ignore="true"/>
+        </xpath>
+    </template>
+
+<!--
+         All Missing Themes Darkly, Lumen, Paper, Sandstone, Superhero, Yeti
+-->
+
+    <template id="theme_bootswatch_native.theme_darkly" name="Darkly" inherit_id="website.assets_frontend" active="False" customize_show="False">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/darkly/bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/darkly/variables.less' t-ignore="true"/>
+        </xpath>
+    </template>
+
+    <template id="theme_bootswatch_native.theme_darkly" name="Lumen" inherit_id="website.assets_frontend" active="False" customize_show="False">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/lumen/bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/lumen/variables.less' t-ignore="true"/>
+        </xpath>
+    </template>
+
+    <template id="theme_bootswatch_native.theme_darkly" name="Paper" inherit_id="website.assets_frontend" active="False" customize_show="False">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/paper/bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/paper/variables.less' t-ignore="true"/>
+        </xpath>
+    </template>
+
+    <template id="theme_bootswatch_native.theme_darkly" name="Sandstone" inherit_id="website.assets_frontend" active="False" customize_show="False">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/sandstone/bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/sandstone/variables.less' t-ignore="true"/>
+        </xpath>
+    </template>
+
+    <template id="theme_bootswatch_native.theme_darkly" name="Superhero" inherit_id="website.assets_frontend" active="False" customize_show="False">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/superhero/bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/superhero/variables.less' t-ignore="true"/>
+        </xpath>
+    </template>
+
+    <template id="theme_bootswatch_native.theme_yeti" name="Yeti" inherit_id="website.assets_frontend" active="False" customize_show="False">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/yeti/bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='https://bootswatch.com/yeti/variables.less' t-ignore="true"/>
         </xpath>
     </template>
 
