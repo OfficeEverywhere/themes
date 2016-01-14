@@ -28,6 +28,13 @@
                       <input name="theme" type="radio" data-xmlid="theme_lumen.theme_lumen"/>
                     </label>
                   </td>
+                  <td>
+                    <label>
+                      <a href="https://apps.openerp.com/apps/themes/browse?author=Office%20Everywhere" target="_blank">
+                        <img style="width: 120px; height: 70px;" src="/theme_lumen/static/src/img/more-thumbnail.png" alt="More Themes"/>
+                      </a>
+                    </label>
+                  </td>
                 </tr>
               </table>
             </div>
