@@ -135,8 +135,9 @@
                   </td>
                   <td>
                     <label>
-                      <img style="width: 120px; height: 70px;" src="/theme_bootswatch_native/static/src/img/more-thumbnail.png" alt="More Themes"/>
-                      <input name="theme" type="radio" data-xmlid="theme_bootswatch_native.theme_more"/>
+                      <a href="https://apps.openerp.com/apps/themes/browse?author=Office%20Everywhere" target="_blank">
+                        <img style="width: 120px; height: 70px;" src="/theme_bootswatch_native/static/src/img/more-thumbnail.png" alt="More Themes"/>
+                      </a>
                     </label>
                   </td>
                 </tr>
@@ -285,6 +286,14 @@
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/yeti/variables.less' t-ignore="true"/>
         </xpath>
     </template>
+
+    <template id="theme_bootswatch_native.theme_more" name="More" inherit_id="website.assets_frontend" active="False" customize_show="False">
+        <xpath expr="." position="inside">
+
+        </xpath>
+    </template>
+
+
 
 </data>
 </openerp>
