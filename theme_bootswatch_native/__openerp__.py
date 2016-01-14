@@ -5,7 +5,7 @@
     'summary': 'Native Bootswatch Themes',
     'description': 'Native Bootswatch Themes',
     'category': 'Theme',
-    'version': '0.3.1',
+    'version': '0.3.2',
     'images': ['images/bootswatch-native.png'],
     'depends': ['website'],
     'data': ['views/bootswatch-native.xml'],

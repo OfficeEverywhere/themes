@@ -247,52 +247,69 @@
 
     <template id="theme_bootswatch_native.theme_darkly" name="Darkly" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/darkly/bootswatch.less' t-ignore="true"/>
+            <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/darkly/variables.less' t-ignore="true"/>
+          <!-- external link not working in Odoo
             <link rel="stylesheet" type="text/less" href="https://bootswatch.com/darkly/bootswatch.less" t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href="https://bootswatch.com/darkly/variables.less" t-ignore="true"/>
+          -->
         </xpath>
     </template>
 
     <template id="theme_bootswatch_native.theme_lumen" name="Lumen" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/lumen/bootswatch.less' t-ignore="true"/>
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/lumen/variables.less' t-ignore="true"/>
+         <!-- external link not working in Odoo
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/lumen/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/lumen/variables.less' t-ignore="true"/>
+          -->
         </xpath>
     </template>
 
     <template id="theme_bootswatch_native.theme_paper" name="Paper" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/paper/bootswatch.less' t-ignore="true"/>
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/paper/variables.less' t-ignore="true"/>
+          <!-- external link not working in Odoo
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/paper/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/paper/variables.less' t-ignore="true"/>
+          -->
         </xpath>
     </template>
 
     <template id="theme_bootswatch_native.theme_sandstone" name="Sandstone" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/sandstone/bootswatch.less' t-ignore="true"/>
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/sandstone/variables.less' t-ignore="true"/>
+          <!-- external link not working in Odoo
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/sandstone/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/sandstone/variables.less' t-ignore="true"/>
+          -->
         </xpath>
     </template>
 
     <template id="theme_bootswatch_native.theme_superhero" name="Superhero" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/superhero/bootswatch.less' t-ignore="true"/>
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/suyperhero/variables.less' t-ignore="true"/>
+          <!-- external link not working in Odoo
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/superhero/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/superhero/variables.less' t-ignore="true"/>
+          -->
         </xpath>
     </template>
 
     <template id="theme_bootswatch_native.theme_yeti" name="Yeti" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/yeti/bootswatch.less' t-ignore="true"/>
+          <link rel="stylesheet" type="text/less" href='/theme_bootswatch_native/static/src/less/yeti/variables.less' t-ignore="true"/>     
+          <!-- external link not working in Odoo
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/yeti/bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='https://bootswatch.com/yeti/variables.less' t-ignore="true"/>
+          -->
         </xpath>
     </template>
-
-    <template id="theme_bootswatch_native.theme_more" name="More" inherit_id="website.assets_frontend" active="False" customize_show="False">
-        <xpath expr="." position="inside">
-
-        </xpath>
-    </template>
-
 
 
 </data>
