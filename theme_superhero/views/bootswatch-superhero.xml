@@ -49,8 +49,14 @@
     <!-- Theme superhero -->
     <template id="theme_superhero.theme_superhero" name="superhero" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+
+            <link rel='stylesheet' href='/theme_superhero/static/src/css/bootswatch-superhero.css' t-ignore="true"/>
+
+            <!-- not workking
             <link rel="stylesheet" type="text/less" href='/theme_superhero/static/src/less/superhero-bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='/theme_superhero/static/src/less/superhero-variables.less' t-ignore="true"/>
+            -->
+
         </xpath>
             <!-- Refresh menu -->
             <script>

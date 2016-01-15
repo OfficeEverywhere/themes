@@ -49,8 +49,14 @@
     <!-- Theme sandstone -->
     <template id="theme_sandstone.theme_sandstone" name="sandstone" inherit_id="website.assets_frontend" active="False" customize_show="False">
         <xpath expr="." position="inside">
+
+            <link rel='stylesheet' href='/theme_sandstone/static/src/css/bootswatch-sandstone.css' t-ignore="true"/>
+
+            <!-- not working
             <link rel="stylesheet" type="text/less" href='/theme_sandstone/static/src/less/sandstone-bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='/theme_sandstone/static/src/less/sandstone-variables.less' t-ignore="true"/>
+            -->
+
         </xpath>
             <!-- Refresh menu -->
             <script>
