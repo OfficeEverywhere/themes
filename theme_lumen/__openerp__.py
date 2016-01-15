@@ -5,7 +5,7 @@
     'summary': 'Bootswatch Lumen',
     'description': 'Bootswatch Lumen',
     'category': 'Theme',
-    'version': '0.2',
+    'version': '0.3',
     'images': ['images/lumen-thumbnail.png'],
     'depends': ['website'],
     'data': ['views/bootswatch-lumen.xml'],
