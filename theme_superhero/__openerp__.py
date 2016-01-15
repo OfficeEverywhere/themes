@@ -5,7 +5,7 @@
     'summary': 'Bootswatch Superhero',
     'description': 'Bootswatch Superhero',
     'category': 'Theme',
-    'version': '0.1',
+    'version': '0.3',
     'images': ['images/superhero-thumbnail.png'],
     'depends': ['website'],
     'data': ['views/bootswatch-superhero.xml'],
